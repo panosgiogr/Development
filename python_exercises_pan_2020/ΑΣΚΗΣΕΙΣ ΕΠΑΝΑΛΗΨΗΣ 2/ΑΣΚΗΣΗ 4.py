@@ -1,3 +1,4 @@
+#author panosgio
 S=0
 k=5
 while S<5000:

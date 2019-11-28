@@ -1,3 +1,4 @@
+#author panosgio
 competitors_mark_over_18=0
 max_mark=0
 for i in range(30):

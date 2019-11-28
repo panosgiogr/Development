@@ -1,3 +1,4 @@
+#author panosgio
 student_name=raw_input("Δώσε ονοματεπώνυμο μαθητή : ")
 min_mark=10000
 sum_mark=0

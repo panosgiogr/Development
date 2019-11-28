@@ -1,3 +1,4 @@
+#author panosgio
 temp=int(input("Δώσε θερμοκρασία ημέρας : "))
 avg_temp=0
 counter=1

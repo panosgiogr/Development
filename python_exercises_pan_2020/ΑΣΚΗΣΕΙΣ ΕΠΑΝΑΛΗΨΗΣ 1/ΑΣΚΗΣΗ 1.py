@@ -1,3 +1,4 @@
+#author panosgio
 payments=0
 employees=0
 max_payment=0

@@ -1,3 +1,4 @@
+#author panosgio
 man_with_max_kids_name=""
 man_with_max_kids_count=0
 women=0
