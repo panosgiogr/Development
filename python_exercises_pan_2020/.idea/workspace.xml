@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c1c4b1-7159-41ab-aa53-f59240096d5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
+            <state relative-caret-position="680">
               <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
             </state>
           </provider>
@@ -46,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
+            <state relative-caret-position="1020">
               <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
             </state>
           </provider>
@@ -73,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="408">
               <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
@@ -340,7 +336,8 @@
       <workItem from="1575038296856" duration="3326000" />
       <workItem from="1575144769387" duration="3101000" />
       <workItem from="1575733241727" duration="9000" />
-      <workItem from="1576182702797" duration="3203000" />
+      <workItem from="1576182702797" duration="3558000" />
+      <workItem from="1576353394240" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1574948649732</created>
@@ -391,22 +388,35 @@
       <option name="project" value="LOCAL" />
       <updated>1575147243299</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="co">
+      <created>1576185927307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576185927307</updated>
+    </task>
+    <task id="LOCAL-00009" summary="co">
+      <created>1576186032327</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576186032327</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22870000" />
+    <option name="totallyTimeSpent" value="23258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13287087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13447171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49893278" visible="true" weight="0.32247558" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893278" weight="0.32247558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,38 +493,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 2/ΑΣΚΗΣΗ 3.py">
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 2/ΑΣΚΗΣΗ 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -527,22 +509,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
+        <state relative-caret-position="680">
           <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 1.py">
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="18" />
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 3/ΑΣΚΗΣΗ 7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="408">
           <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 2/ΑΣΚΗΣΗ 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ΑΣΚΗΣΕΙΣ ΕΠΑΝΑΛΗΨΗΣ 2/ΑΣΚΗΣΗ 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
         </state>
       </provider>
     </entry>
