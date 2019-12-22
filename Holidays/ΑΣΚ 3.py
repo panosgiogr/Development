@@ -1,26 +1,18 @@
-destination=raw_input("Î”ÏŽÏƒÎµ Ï€ÏÎ¿Î¿ÏÎ¹ÏƒÎ¼ÏŒ : ")
-transportation=raw_input("Î”ÏŽÏƒÎµ Î¼Î­ÏƒÎ¿ Î¼ÎµÏ„Î±Ï†Î¿ÏÎ¬Ï‚ : ")
-days=int(input("Î”ÏŽÏƒÎµ Î·Î¼Î­ÏÎµÏ‚ Î´Î¹Î±Î¼Î¿Î½Î®Ï‚ : "))
-people=int(input("Î”ÏŽÏƒÎµ Î±ÏÎ¹Î¸Î¼ÏŒ Î±Ï„ÏŒÎ¼Ï‰Î½"))
-value_per_customer=400
-if transportation=="Î Î»Î¿Î¯Î¿":
-    if destination=="ÎšÏÎ®Ï„Î·":
-        value_per_customer+=150
-    elif destination=="Î¡ÏŒÎ´Î¿Ï‚":
-        value_per_customer+=300
-    elif destination=="ÎœÏÎºÎ¿Î½Î¿Ï‚":
-        value_per_customer += 250
-    if days==5:
-        value_per_customer+=200
-elif transportation=="Î‘ÎµÏÎ¿Ï€Î»Î¬Î½Î¿":
-    if destination=="Î¡ÏŒÎ´Î¿Ï‚":
-        value_per_customer+=100
-    elif destination=="ÎœÏÎºÎ¿Î½Î¿Ï‚":
-        value_per_customer += 150
-    if days==5 and destination=="ÎšÏÎ®Ï„Î·" or destination=="Î¡ÏŒÎ´Î¿Ï‚":
-        value_per_customer+=200
-    else:
-        value_per_customer+=100
-print "Î£ÏÎ½Î¿Î»Î¿ Î³Î¹Î±",people," ÎµÏ€Î¹Î²Î¬Ï„ÎµÏ‚ Î¼Îµ Ï€ÏÎ¿Î¿ÏÎ¹ÏƒÎ¼ÏŒ :",destination," :",value_per_customer*people
-
-
+min_stu_name=""
+min_stu_mark=20.1
+max_stu_name=""
+max_stu_mark=0.0
+for i in range(1,27,1):
+    stu_name=raw_input("Äþóå üíïìá ìáèçôÞ : ")
+    stu_mo=0
+    for i in range(1,11,1):
+        stu_mo+=float(input("Äþóå "+str(i)+"ï âáèìü ãéá ôïí ìáèçôÞ : "+stu_name+" :"))
+    stu_mo=stu_mo/10
+    if stu_mo>max_stu_mark:
+        max_stu_mark=stu_mo
+        max_stu_name=stu_name
+    if stu_mo<min_stu_mark:
+        min_stu_mark=stu_mo
+        min_stu_name=stu_name
+print "Ï ìáèçôÞò ìå ôï ìåãáëýôåñï Ì.Ï. åßíáé ï/ç :" ,max_stu_name," ìå âáèìü ",max_stu_mark
+print "Ï ìáèçôÞò ìå ôï ìéêñüôåñï Ì.Ï. åßíáé ï/ç :" ,min_stu_name," ìå âáèìü ",min_stu_mark
