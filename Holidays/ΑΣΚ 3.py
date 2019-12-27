@@ -1,18 +1,24 @@
-min_stu_name=""
-min_stu_mark=20.1
-max_stu_name=""
-max_stu_mark=0.0
-for i in range(1,27,1):
-    stu_name=raw_input("Δώσε όνομα μαθητή : ")
-    stu_mo=0
-    for i in range(1,11,1):
-        stu_mo+=float(input("Δώσε "+str(i)+"ο βαθμό για τον μαθητή : "+stu_name+" :"))
-    stu_mo=stu_mo/10
-    if stu_mo>max_stu_mark:
-        max_stu_mark=stu_mo
-        max_stu_name=stu_name
-    if stu_mo<min_stu_mark:
-        min_stu_mark=stu_mo
-        min_stu_name=stu_name
-print "Ο μαθητής με το μεγαλύτερο Μ.Ο. είναι ο/η :" ,max_stu_name," με βαθμό ",max_stu_mark
-print "Ο μαθητής με το μικρότερο Μ.Ο. είναι ο/η :" ,min_stu_name," με βαθμό ",min_stu_mark
+destination=raw_input("Δώσε προορισμό : ")
+transportation=raw_input("Δώσε μέσο μεταφοράς : ")
+days=int(input("Δώσε ημέρες διαμονής : "))
+people=int(input("Δώσε αριθμό ατόμων"))
+value_per_customer=400
+if transportation=="Πλοίο":
+    if destination=="Κρήτη":
+        value_per_customer+=150
+    elif destination=="Ρόδος":
+        value_per_customer+=300
+    elif destination=="Μύκονος":
+        value_per_customer += 250
+    if days==5:
+        value_per_customer+=200
+elif transportation=="Αεροπλάνο":
+    if destination=="Ρόδος":
+        value_per_customer+=100
+    elif destination=="Μύκονος":
+        value_per_customer += 150
+    if days==5 and destination=="Κρήτη" or destination=="Ρόδος":
+        value_per_customer+=200
+    else:
+        value_per_customer+=100
+print "Σύνολο για",people," επιβάτες με προορισμό :",destination," :",value_per_customer*people
